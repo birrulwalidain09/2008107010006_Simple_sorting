@@ -4,5 +4,7 @@
 Tugas 2 SDA
 Fungsi-fungsi Yang digunakan
 
-<ol><li>1. List satu</li><li>2. List dua</li>
+<ol>
+    <li>1. List satu</li>
+    <li>2. List dua</li>
 </ol>
