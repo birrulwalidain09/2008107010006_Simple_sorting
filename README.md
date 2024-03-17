@@ -12,3 +12,5 @@ Fungsi-fungsi Yang digunakan
     <li> tulisKeFile(int *data, int jumlahData, char *namaFile): Menuliskan data ke dalam file teks.</li>
     <li> main(): Fungsi utama program yang menjalankan logika pengurutan data menggunakan algoritma-algoritma yang telah diimplementasikan, menghitung waktu eksekusi masing-            masing algoritma, dan menuliskan hasilnya ke dalam file teks.</li>
 </ol>
+
+Link YouTube Video singkat Penjelasan Program : https://youtu.be/yVIzt4ugQgk
