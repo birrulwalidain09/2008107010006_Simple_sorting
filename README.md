@@ -1,8 +1,7 @@
 # 2008107010006_Simple_sorting
 # Birrul Walidain
 
-Tugas 2 SDA
-\n Fungsi-fungsi Yang digunakan \n
+Fungsi-fungsi Yang digunakan 
 
 <ol>
     <li> generateBilanganAcak(): Menghasilkan bilangan acak.</li>
