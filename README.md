@@ -2,7 +2,7 @@
 # Birrul Walidain
 
 Tugas 2 SDA
-/n Fungsi-fungsi Yang digunakan
+\n Fungsi-fungsi Yang digunakan \n
 
 <ol>
     <li> generateBilanganAcak(): Menghasilkan bilangan acak.</li>
